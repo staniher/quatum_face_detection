@@ -1,0 +1,5 @@
+conda create -n qiskit_env python=3.9
+conda activate qiskit_env
+pip install "qiskit==0.34.0" "qiskit-machine-learning==0.3.0"
+pip install opencv-python
+
